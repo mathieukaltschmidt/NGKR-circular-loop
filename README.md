@@ -36,7 +36,7 @@ run_NGKR.ipynb
 If you use this repository for a scientific publication, please cite:
 ```bibtex
 @unpublished{Kaltschmidt:2026,
-    author = "Kaltschmidt, M. and Redondo, J. and Rybak, Ivan Y. and Saikawa Ken'ichi",
+    author = "Kaltschmidt, Mathieu and Redondo, Javier and Rybak, Ivan Y. and Saikawa Ken'ichi",
     title = "{Validity of the Nambu-Goto-Kalb-Ramond effective theory for circular string loops}",
     eprint = "2609.XXXXX",
     archivePrefix = "arXiv",
