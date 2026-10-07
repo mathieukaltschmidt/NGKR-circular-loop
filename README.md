@@ -20,13 +20,13 @@ cd NGKR-circular-loop
 ## Repository Structure
 ```
 NGKR-circular-loop/
-├── NGKR_loop.py/          # Core module for running the circular loop collapse using the NGKR EFT
-├── run_NGKR.ipynb         # Jupyter notebook explaining the basic usage of the code
+├── NGKR_loop.py/                  # Core module for running the circular loop collapse using the NGKR EFT
+├── run_NGKR.ipynb (to be added)   # Jupyter notebook explaining the basic usage of the code (STILL UNDER DEVELOPMENT!)
 ```
 
 ## Usage
 
-An example notebook explaining the basic usage is:
+An example notebook explaining the basic usage is still under development and will be added as soon as possible:
 ```bash
 run_NGKR.ipynb
 ```
@@ -37,12 +37,12 @@ If you use this repository for a scientific publication, please cite:
 ```bibtex
 @unpublished{Kaltschmidt:2026,
     author = "Kaltschmidt, Mathieu and Redondo, Javier and Rybak, Ivan Y. and Saikawa Ken'ichi",
-    title = "{Validity of the Nambu-Goto-Kalb-Ramond effective theory for circular string loops}",
-    eprint = "2609.XXXXX",
+    title = "{Circular Axion String Loops:\\ Field Theory and Effective Description}",
+    eprint = "2610.XXXXX",
     archivePrefix = "arXiv",
     primaryClass = "hep-ph",
     reportNumber = "KANAZAWA-26-06",
-    month = "9",
+    month = "10",
     year = "2026",
     note = "\emph{Submitted to JHEP}"
 }
